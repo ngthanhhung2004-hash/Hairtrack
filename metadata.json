@@ -1,0 +1,6 @@
+{
+  "name": "HairTrack",
+  "description": "Interactive hair health tracker, photo diary, comparison slider, and routine logger.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
